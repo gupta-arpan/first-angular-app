@@ -1,0 +1,12 @@
+.brand-name{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.brand-logo{
+    width: 40px;
+    height: 40px;
+}
+.heading{
+    color: blueviolet;
+}
